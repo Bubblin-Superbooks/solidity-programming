@@ -1,12 +1,12 @@
 {
-  "name": "solidity-programming",
+  "name": "Professional Solidity",
   "type": "blank",
   "has_page_numbers": false,
   "mode": {
-    "HTML": "html",
-    "CSS": "css",
+    "HTML": "haml",
+    "CSS": "scss",
     "JS": "js",
-    "HEAD": "html"
+    "HEAD": "haml"
   },
   "book_id": 527
 }
